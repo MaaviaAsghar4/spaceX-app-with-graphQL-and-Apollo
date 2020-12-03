@@ -1,0 +1,22 @@
+.link-btn{
+    color: #f7f7f7;
+    background-color: #007bff;
+    padding: 10px 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.link-btn2{
+    color: #f7f7f7;
+    text-align: center !important;
+    margin-top: 10px !important;
+    cursor: pointer;
+    background-color: #007bff;
+    width: 200px;
+    margin-left: 10px !important;
+    padding: 10px 10px;
+}
+
+.link-btn2:hover{
+    color: #fff;
+}
